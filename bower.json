@@ -1,0 +1,20 @@
+{
+  "name": "loopback-module",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nanoPayinc/loopback-module",
+  "authors": [
+    "name": "nanoPay inc",
+    "email": "info@nanopay.net",
+    "homepage": "http://nanopay.net"
+  ],
+  "description": "Add support of modules to Loopback application",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
